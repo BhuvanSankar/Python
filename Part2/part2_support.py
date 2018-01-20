@@ -1,6 +1,6 @@
 
 #
-# Support for assignment 2
+# Support for Part 2
 #
 
 # Imports for use in your assignment
