@@ -1,7 +1,7 @@
 
 ###################################################################
 #
-#   CSSE1001/7030 - Assignment 2
+#   CSSE1001/7030 - 
 #
 #   Student Number:
 #
@@ -13,13 +13,13 @@
 # Support given below - DO NOT CHANGE
 #####################################
 
-from assign2_support import *
+from part2_support import *
 
 #####################################
 # End of support 
 #####################################
 
-# Add your code here
+
 
 class TemperatureData(object):
     """
